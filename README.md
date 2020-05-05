@@ -12,7 +12,9 @@ UNet code was forked from https://github.com/milesial/Pytorch-UNet
 # Results:
 
 UNet: <br/>
-<img src="unet_results.png" width="400" height="400" title="UNet">
+<p align="center">
+  <img src="unet_results.png" width=50% title="UNet" style="align: centered;">
+</p>
 
 # Authors
 Arslan Gait - Computer Science, Nazarbayev University, arslan.gait@nu.edu.kz<br/>
